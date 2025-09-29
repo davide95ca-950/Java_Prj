@@ -11,7 +11,7 @@ Intersection logic with traffic-light phases and right-of-way rules. Console mes
 Run the `Main` class. Sample output: `docs/run.log`.
 
 ## What to look at
-- State transitions: RED → YELLOW → GREEN
+- State transitions
 - Yield/clear rules on approaches
 
 ## Example output
