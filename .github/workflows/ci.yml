@@ -1,0 +1,20 @@
+name: CI
+on: [push, pull_request]
+jobs:
+  java-run:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        module: [Supermercato, Barbiere, Incrocio, Aereo, Officina]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+      - name: Compile
+        working-directory: ${{ matrix.module }}
+        run: javac *.java
+      - name: Run smoke test
+        working-directory: ${{ matrix.module }}
+        run: java Main
