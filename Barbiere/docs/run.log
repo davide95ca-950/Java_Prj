@@ -1,1 +1,293 @@
-
+Barbiere 2 è pronto per servire i clienti
+Barbiere 1 è pronto per servire i clienti
+Barbiere 0 è pronto per servire i clienti
+== arriva il cliente0
+Barbiere 0 ottiene il cliente 0
+Barbiere 0 ha servito il cliente0
+Barbiere1non ha clienti da servire
+Barbiere2non ha clienti da servire
+== arriva il cliente1
+Barbiere 1 ottiene il cliente 1
+Barbiere 1 ha servito il cliente1
+== arriva il cliente2
+Barbiere 2 ottiene il cliente 2
+Barbiere 2 ha servito il cliente2
+Barbiere 0 è pronto per servire i clienti
+Barbiere0non ha clienti da servire
+Barbiere 1 è pronto per servire i clienti
+Barbiere1non ha clienti da servire
+== arriva il cliente3
+Barbiere 0 ottiene il cliente 3
+Barbiere 0 ha servito il cliente3
+Barbiere1non ha clienti da servire
+== arriva il cliente4
+Barbiere 1 ottiene il cliente 4
+Barbiere 1 ha servito il cliente4
+== arriva il cliente5
+== arriva il cliente6
+Barbiere 1 è pronto per servire i clienti
+Barbiere 1 ottiene il cliente 5
+Barbiere 1 ha servito il cliente5
+== arriva il cliente7
+== arriva il cliente8
+== arriva il cliente9
+Barbiere 0 è pronto per servire i clienti
+Barbiere 0 ottiene il cliente 6
+Barbiere 0 ha servito il cliente6
+== arriva il cliente10
+== arriva il cliente11
+== arriva il cliente12
+DIVANO PIENO[7, 8, 9, 10, 11] - il cliente12va via
+== arriva il cliente13
+DIVANO PIENO[7, 8, 9, 10, 11] - il cliente13va via
+== arriva il cliente14
+DIVANO PIENO[7, 8, 9, 10, 11] - il cliente14va via
+Barbiere 2 è pronto per servire i clienti
+Barbiere 2 ottiene il cliente 7
+Barbiere 2 ha servito il cliente7
+== arriva il cliente15
+== arriva il cliente16
+DIVANO PIENO[8, 9, 10, 11, 15] - il cliente16va via
+== arriva il cliente17
+DIVANO PIENO[8, 9, 10, 11, 15] - il cliente17va via
+Barbiere 1 è pronto per servire i clienti
+Barbiere 1 ottiene il cliente 8
+Barbiere 1 ha servito il cliente8
+== arriva il cliente18
+== arriva il cliente19
+DIVANO PIENO[9, 10, 11, 15, 18] - il cliente19va via
+== arriva il cliente20
+DIVANO PIENO[9, 10, 11, 15, 18] - il cliente20va via
+== arriva il cliente21
+DIVANO PIENO[9, 10, 11, 15, 18] - il cliente21va via
+== arriva il cliente22
+DIVANO PIENO[9, 10, 11, 15, 18] - il cliente22va via
+== arriva il cliente23
+DIVANO PIENO[9, 10, 11, 15, 18] - il cliente23va via
+== arriva il cliente24
+DIVANO PIENO[9, 10, 11, 15, 18] - il cliente24va via
+== arriva il cliente25
+DIVANO PIENO[9, 10, 11, 15, 18] - il cliente25va via
+Barbiere 0 è pronto per servire i clienti
+Barbiere 0 ottiene il cliente 9
+Barbiere 0 ha servito il cliente9
+== arriva il cliente26
+Barbiere 2 è pronto per servire i clienti
+Barbiere 2 ottiene il cliente 10
+Barbiere 2 ha servito il cliente10
+Barbiere 1 è pronto per servire i clienti
+Barbiere 1 ottiene il cliente 11
+Barbiere 1 ha servito il cliente11
+== arriva il cliente27
+== arriva il cliente28
+== arriva il cliente29
+DIVANO PIENO[15, 18, 26, 27, 28] - il cliente29va via
+== arriva il cliente30
+DIVANO PIENO[15, 18, 26, 27, 28] - il cliente30va via
+Barbiere 1 è pronto per servire i clienti
+Barbiere 1 ottiene il cliente 15
+Barbiere 1 ha servito il cliente15
+Barbiere 2 è pronto per servire i clienti
+Barbiere 2 ottiene il cliente 18
+Barbiere 2 ha servito il cliente18
+== arriva il cliente31
+Barbiere 0 è pronto per servire i clienti
+Barbiere 0 ottiene il cliente 26
+Barbiere 0 ha servito il cliente26
+== arriva il cliente32
+== arriva il cliente33
+== arriva il cliente34
+DIVANO PIENO[27, 28, 31, 32, 33] - il cliente34va via
+Barbiere 1 è pronto per servire i clienti
+Barbiere 1 ottiene il cliente 27
+Barbiere 1 ha servito il cliente27
+== arriva il cliente35
+== arriva il cliente36
+DIVANO PIENO[28, 31, 32, 33, 35] - il cliente36va via
+== arriva il cliente37
+DIVANO PIENO[28, 31, 32, 33, 35] - il cliente37va via
+== arriva il cliente38
+DIVANO PIENO[28, 31, 32, 33, 35] - il cliente38va via
+Barbiere 0 è pronto per servire i clienti
+Barbiere 0 ottiene il cliente 28
+Barbiere 0 ha servito il cliente28
+Barbiere 2 è pronto per servire i clienti
+Barbiere 2 ottiene il cliente 31
+Barbiere 1 è pronto per servire i clienti
+Barbiere 2 ha servito il cliente31
+Barbiere 1 ottiene il cliente 32
+Barbiere 1 ha servito il cliente32
+== arriva il cliente39
+== arriva il cliente40
+== arriva il cliente41
+== arriva il cliente42
+DIVANO PIENO[33, 35, 39, 40, 41] - il cliente42va via
+Barbiere 0 è pronto per servire i clienti
+Barbiere 0 ottiene il cliente 33
+Barbiere 0 ha servito il cliente33
+Barbiere 2 è pronto per servire i clienti
+Barbiere 2 ottiene il cliente 35
+Barbiere 2 ha servito il cliente35
+== arriva il cliente43
+Barbiere 0 è pronto per servire i clienti
+Barbiere 0 ottiene il cliente 39
+Barbiere 0 ha servito il cliente39
+== arriva il cliente44
+== arriva il cliente45
+== arriva il cliente46
+DIVANO PIENO[40, 41, 43, 44, 45] - il cliente46va via
+== arriva il cliente47
+DIVANO PIENO[40, 41, 43, 44, 45] - il cliente47va via
+== arriva il cliente48
+DIVANO PIENO[40, 41, 43, 44, 45] - il cliente48va via
+== arriva il cliente49
+DIVANO PIENO[40, 41, 43, 44, 45] - il cliente49va via
+== arriva il cliente50
+DIVANO PIENO[40, 41, 43, 44, 45] - il cliente50va via
+== arriva il cliente51
+DIVANO PIENO[40, 41, 43, 44, 45] - il cliente51va via
+Barbiere 1 è pronto per servire i clienti
+Barbiere 1 ottiene il cliente 40
+Barbiere 1 ha servito il cliente40
+== arriva il cliente52
+== arriva il cliente53
+DIVANO PIENO[41, 43, 44, 45, 52] - il cliente53va via
+== arriva il cliente54
+DIVANO PIENO[41, 43, 44, 45, 52] - il cliente54va via
+Barbiere 0 è pronto per servire i clienti
+Barbiere 0 ottiene il cliente 41
+Barbiere 2 è pronto per servire i clienti
+Barbiere 0 ha servito il cliente41
+Barbiere 2 ottiene il cliente 43
+Barbiere 2 ha servito il cliente43
+== arriva il cliente55
+== arriva il cliente56
+== arriva il cliente57
+DIVANO PIENO[44, 45, 52, 55, 56] - il cliente57va via
+Barbiere 1 è pronto per servire i clienti
+Barbiere 1 ottiene il cliente 44
+Barbiere 1 ha servito il cliente44
+== arriva il cliente58
+== arriva il cliente59
+DIVANO PIENO[45, 52, 55, 56, 58] - il cliente59va via
+== arriva il cliente60
+DIVANO PIENO[45, 52, 55, 56, 58] - il cliente60va via
+== arriva il cliente61
+DIVANO PIENO[45, 52, 55, 56, 58] - il cliente61va via
+== arriva il cliente62
+DIVANO PIENO[45, 52, 55, 56, 58] - il cliente62va via
+== arriva il cliente63
+DIVANO PIENO[45, 52, 55, 56, 58] - il cliente63va via
+== arriva il cliente64
+DIVANO PIENO[45, 52, 55, 56, 58] - il cliente64va via
+Barbiere 2 è pronto per servire i clienti
+Barbiere 2 ottiene il cliente 45
+Barbiere 2 ha servito il cliente45
+== arriva il cliente65
+== arriva il cliente66
+DIVANO PIENO[52, 55, 56, 58, 65] - il cliente66va via
+== arriva il cliente67
+DIVANO PIENO[52, 55, 56, 58, 65] - il cliente67va via
+== arriva il cliente68
+DIVANO PIENO[52, 55, 56, 58, 65] - il cliente68va via
+== arriva il cliente69
+DIVANO PIENO[52, 55, 56, 58, 65] - il cliente69va via
+== arriva il cliente70
+DIVANO PIENO[52, 55, 56, 58, 65] - il cliente70va via
+== arriva il cliente71
+DIVANO PIENO[52, 55, 56, 58, 65] - il cliente71va via
+== arriva il cliente72
+DIVANO PIENO[52, 55, 56, 58, 65] - il cliente72va via
+== arriva il cliente73
+DIVANO PIENO[52, 55, 56, 58, 65] - il cliente73va via
+Barbiere 2 è pronto per servire i clienti
+Barbiere 2 ottiene il cliente 52
+Barbiere 2 ha servito il cliente52
+== arriva il cliente74
+Barbiere 0 è pronto per servire i clienti
+Barbiere 0 ottiene il cliente 55
+Barbiere 0 ha servito il cliente55
+== arriva il cliente75
+== arriva il cliente76
+DIVANO PIENO[56, 58, 65, 74, 75] - il cliente76va via
+== arriva il cliente77
+DIVANO PIENO[56, 58, 65, 74, 75] - il cliente77va via
+== arriva il cliente78
+DIVANO PIENO[56, 58, 65, 74, 75] - il cliente78va via
+Barbiere 1 è pronto per servire i clienti
+Barbiere 1 ottiene il cliente 56
+Barbiere 1 ha servito il cliente56
+== arriva il cliente79
+== arriva il cliente80
+DIVANO PIENO[58, 65, 74, 75, 79] - il cliente80va via
+== arriva il cliente81
+DIVANO PIENO[58, 65, 74, 75, 79] - il cliente81va via
+== arriva il cliente82
+DIVANO PIENO[58, 65, 74, 75, 79] - il cliente82va via
+== arriva il cliente83
+DIVANO PIENO[58, 65, 74, 75, 79] - il cliente83va via
+== arriva il cliente84
+DIVANO PIENO[58, 65, 74, 75, 79] - il cliente84va via
+== arriva il cliente85
+DIVANO PIENO[58, 65, 74, 75, 79] - il cliente85va via
+Barbiere 2 è pronto per servire i clienti
+Barbiere 2 ottiene il cliente 58
+Barbiere 2 ha servito il cliente58
+== arriva il cliente86
+Barbiere 1 è pronto per servire i clienti
+Barbiere 1 ottiene il cliente 65
+Barbiere 1 ha servito il cliente65
+== arriva il cliente87
+== arriva il cliente88
+DIVANO PIENO[74, 75, 79, 86, 87] - il cliente88va via
+Barbiere 1 è pronto per servire i clienti
+Barbiere 1 ottiene il cliente 74
+Barbiere 1 ha servito il cliente74
+== arriva il cliente89
+== arriva il cliente90
+DIVANO PIENO[75, 79, 86, 87, 89] - il cliente90va via
+== arriva il cliente91
+DIVANO PIENO[75, 79, 86, 87, 89] - il cliente91va via
+== arriva il cliente92
+DIVANO PIENO[75, 79, 86, 87, 89] - il cliente92va via
+== arriva il cliente93
+DIVANO PIENO[75, 79, 86, 87, 89] - il cliente93va via
+== arriva il cliente94
+DIVANO PIENO[75, 79, 86, 87, 89] - il cliente94va via
+Barbiere 2 è pronto per servire i clienti
+Barbiere 2 ottiene il cliente 75
+Barbiere 2 ha servito il cliente75
+Barbiere 1 è pronto per servire i clienti
+Barbiere 1 ottiene il cliente 79
+Barbiere 1 ha servito il cliente79
+== arriva il cliente95
+Barbiere 0 è pronto per servire i clienti
+Barbiere 0 ottiene il cliente 86
+Barbiere 0 ha servito il cliente86
+== arriva il cliente96
+== arriva il cliente97
+== arriva il cliente98
+DIVANO PIENO[87, 89, 95, 96, 97] - il cliente98va via
+== arriva il cliente99
+DIVANO PIENO[87, 89, 95, 96, 97] - il cliente99va via
+Barbiere 2 è pronto per servire i clienti
+Barbiere 2 ottiene il cliente 87
+Barbiere 2 ha servito il cliente87
+Barbiere 1 è pronto per servire i clienti
+Barbiere 1 ottiene il cliente 89
+Barbiere 1 ha servito il cliente89
+Barbiere 0 è pronto per servire i clienti
+Barbiere 0 ottiene il cliente 95
+Barbiere 0 ha servito il cliente95
+Barbiere 0 è pronto per servire i clienti
+Barbiere 0 ottiene il cliente 96
+Barbiere 0 ha servito il cliente96
+Barbiere 2 è pronto per servire i clienti
+Barbiere 2 ottiene il cliente 97
+Barbiere 2 ha servito il cliente97
+Barbiere 0 è pronto per servire i clienti
+Barbiere0non ha clienti da servire
+Barbiere 1 è pronto per servire i clienti
+Barbiere1non ha clienti da servire
+Barbiere 2 è pronto per servire i clienti
+Barbiere2non ha clienti da servire
