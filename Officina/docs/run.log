@@ -1,0 +1,413 @@
+Uscita libera
+Revisione libera
+Tagliando N2 libero
+Il cliente 0 si mette in coda per il tagliando
+Tagliando N3 libero
+Tagliando N0 libero
+Tagliando N1 libero
+Uscita libera
+Il cliente 2 si mette in coda per la Revisione
+Il cliente 0 esegue il tagliando
+Revisione libera
+Il cliente 0 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 1 si mette in coda per la Revisione
+Tagliando N2 libero
+Il cliente 3 si mette in coda per la Revisione
+Tagliando N1 libero
+Tagliando N0 libero
+Tagliando N3 libero
+Il cliente 2 esegue la revisione
+Il cliente 2 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 1 esegue la revisione
+Il cliente 1 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 3 esegue la revisione
+Il cliente 3 che ha eseguito la revisione si mette in coda per uscire con priorità
+Uscita libera
+Il cliente 3 abbandona l'officina
+Il cliente 1 abbandona l'officina
+Il cliente 2 abbandona l'officina
+Il cliente 0 abbandona l'officina
+Il cliente 7 si mette in coda per il tagliando
+Il cliente 6 si mette in coda per la Revisione
+Il cliente 5 si mette in coda per il tagliando
+Il cliente 4 si mette in coda per il tagliando
+Il cliente 7 esegue il tagliando
+Il cliente 7 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 5 esegue il tagliando
+Il cliente 5 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 4 esegue il tagliando
+Il cliente 4 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 17 si mette in coda per la Revisione
+Il cliente 16 si mette in coda per la Revisione
+Il cliente 15 si mette in coda per il tagliando
+Il cliente 14 si mette in coda per il tagliando
+Il cliente 13 si mette in coda per il tagliando
+Uscita libera
+Il cliente 7 abbandona l'officina
+Il cliente 5 abbandona l'officina
+Il cliente 4 abbandona l'officina
+Revisione libera
+Il cliente 12 si mette in coda per il tagliando
+Il cliente 11 si mette in coda per il tagliando
+Il cliente 10 si mette in coda per la Revisione
+Il cliente 9 si mette in coda per la Revisione
+Il cliente 8 si mette in coda per la Revisione
+Il cliente 27 si mette in coda per la Revisione
+Il cliente 26 si mette in coda per la Revisione
+Il cliente 25 si mette in coda per il tagliando
+Uscita libera
+Il cliente 24 si mette in coda per la Revisione
+Il cliente 6 esegue la revisione
+Il cliente 6 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 17 esegue la revisione
+Il cliente 17 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 16 esegue la revisione
+Il cliente 16 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 10 esegue la revisione
+Il cliente 10 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 9 esegue la revisione
+Il cliente 9 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 8 esegue la revisione
+Il cliente 8 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 27 esegue la revisione
+Il cliente 27 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 26 esegue la revisione
+Il cliente 26 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 24 esegue la revisione
+Il cliente 24 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 23 si mette in coda per il tagliando
+Il cliente 22 si mette in coda per la Revisione
+Il cliente 21 si mette in coda per la Revisione
+Il cliente 20 si mette in coda per il tagliando
+Il cliente 19 si mette in coda per la Revisione
+Il cliente 18 si mette in coda per la Revisione
+Tagliando N2 libero
+Il cliente 15 esegue il tagliando
+Tagliando N0 libero
+Tagliando N3 libero
+Il cliente 15 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 14 esegue il tagliando
+Il cliente 14 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 13 esegue il tagliando
+Il cliente 13 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 12 esegue il tagliando
+Il cliente 12 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 11 esegue il tagliando
+Il cliente 11 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 25 esegue il tagliando
+Il cliente 25 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 23 esegue il tagliando
+Il cliente 23 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 20 esegue il tagliando
+Il cliente 20 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Tagliando N1 libero
+Il cliente 68 si mette in coda per il tagliando
+Il cliente 67 si mette in coda per la Revisione
+Il cliente 66 si mette in coda per il tagliando
+Il cliente 65 si mette in coda per il tagliando
+Il cliente 64 si mette in coda per la Revisione
+Il cliente 63 si mette in coda per il tagliando
+Il cliente 62 si mette in coda per la Revisione
+Il cliente 61 si mette in coda per la Revisione
+Il cliente 60 si mette in coda per il tagliando
+Il cliente 59 si mette in coda per la Revisione
+Il cliente 58 si mette in coda per la Revisione
+Il cliente 57 si mette in coda per la Revisione
+Il cliente 56 si mette in coda per il tagliando
+Il cliente 55 si mette in coda per la Revisione
+Il cliente 54 si mette in coda per la Revisione
+Il cliente 53 si mette in coda per la Revisione
+Il cliente 52 si mette in coda per la Revisione
+Il cliente 51 si mette in coda per il tagliando
+Il cliente 68 esegue il tagliando
+Il cliente 68 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 66 esegue il tagliando
+Il cliente 66 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 65 esegue il tagliando
+Il cliente 65 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 63 esegue il tagliando
+Il cliente 63 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 60 esegue il tagliando
+Il cliente 60 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 56 esegue il tagliando
+Il cliente 56 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 51 esegue il tagliando
+Il cliente 51 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 50 si mette in coda per la Revisione
+Il cliente 49 si mette in coda per il tagliando
+Il cliente 48 si mette in coda per la Revisione
+Il cliente 47 si mette in coda per il tagliando
+Il cliente 46 si mette in coda per la Revisione
+Revisione libera
+Il cliente 45 si mette in coda per la Revisione
+Il cliente 44 si mette in coda per la Revisione
+Il cliente 43 si mette in coda per la Revisione
+Il cliente 42 si mette in coda per la Revisione
+Il cliente 41 si mette in coda per il tagliando
+Il cliente 40 si mette in coda per la Revisione
+Il cliente 39 si mette in coda per il tagliando
+Il cliente 38 si mette in coda per la Revisione
+Il cliente 37 si mette in coda per il tagliando
+Il cliente 36 si mette in coda per il tagliando
+Il cliente 35 si mette in coda per il tagliando
+Il cliente 34 si mette in coda per il tagliando
+Il cliente 33 si mette in coda per il tagliando
+Il cliente 32 si mette in coda per il tagliando
+Il cliente 31 si mette in coda per la Revisione
+Il cliente 30 si mette in coda per il tagliando
+Uscita libera
+Il cliente 24 abbandona l'officina
+Il cliente 26 abbandona l'officina
+Il cliente 27 abbandona l'officina
+Il cliente 8 abbandona l'officina
+Il cliente 9 abbandona l'officina
+Il cliente 10 abbandona l'officina
+Il cliente 16 abbandona l'officina
+Il cliente 17 abbandona l'officina
+Il cliente 6 abbandona l'officina
+Il cliente 15 abbandona l'officina
+Il cliente 14 abbandona l'officina
+Il cliente 13 abbandona l'officina
+Il cliente 12 abbandona l'officina
+Il cliente 11 abbandona l'officina
+Il cliente 25 abbandona l'officina
+Il cliente 23 abbandona l'officina
+Il cliente 20 abbandona l'officina
+Il cliente 68 abbandona l'officina
+Il cliente 66 abbandona l'officina
+Il cliente 65 abbandona l'officina
+Il cliente 63 abbandona l'officina
+Il cliente 60 abbandona l'officina
+Il cliente 56 abbandona l'officina
+Il cliente 51 abbandona l'officina
+Il cliente 29 si mette in coda per il tagliando
+Il cliente 28 si mette in coda per la Revisione
+Uscita libera
+Il cliente 99 si mette in coda per la Revisione
+Il cliente 22 esegue la revisione
+Il cliente 22 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 21 esegue la revisione
+Il cliente 21 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 19 esegue la revisione
+Il cliente 19 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 18 esegue la revisione
+Il cliente 18 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 67 esegue la revisione
+Il cliente 67 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 64 esegue la revisione
+Il cliente 64 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 62 esegue la revisione
+Il cliente 62 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 61 esegue la revisione
+Il cliente 61 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 59 esegue la revisione
+Il cliente 59 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 58 esegue la revisione
+Il cliente 58 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 57 esegue la revisione
+Il cliente 57 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 55 esegue la revisione
+Il cliente 55 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 54 esegue la revisione
+Il cliente 54 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 53 esegue la revisione
+Il cliente 53 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 52 esegue la revisione
+Il cliente 52 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 50 esegue la revisione
+Il cliente 50 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 48 esegue la revisione
+Il cliente 48 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 46 esegue la revisione
+Il cliente 46 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 45 esegue la revisione
+Il cliente 45 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 44 esegue la revisione
+Il cliente 44 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 43 esegue la revisione
+Il cliente 43 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 42 esegue la revisione
+Il cliente 42 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 40 esegue la revisione
+Il cliente 40 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 38 esegue la revisione
+Il cliente 38 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 31 esegue la revisione
+Il cliente 31 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 28 esegue la revisione
+Il cliente 28 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 99 esegue la revisione
+Il cliente 99 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 98 si mette in coda per la Revisione
+Il cliente 97 si mette in coda per la Revisione
+Il cliente 96 si mette in coda per la Revisione
+Il cliente 95 si mette in coda per il tagliando
+Tagliando N0 libero
+Il cliente 49 esegue il tagliando
+Il cliente 49 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 47 esegue il tagliando
+Il cliente 47 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 41 esegue il tagliando
+Il cliente 41 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 39 esegue il tagliando
+Il cliente 39 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 37 esegue il tagliando
+Il cliente 37 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 36 esegue il tagliando
+Il cliente 36 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 35 esegue il tagliando
+Il cliente 35 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 34 esegue il tagliando
+Il cliente 34 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 33 esegue il tagliando
+Il cliente 33 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 32 esegue il tagliando
+Il cliente 32 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 30 esegue il tagliando
+Il cliente 30 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 29 esegue il tagliando
+Il cliente 29 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 95 esegue il tagliando
+Il cliente 95 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Tagliando N3 libero
+Il cliente 94 si mette in coda per la Revisione
+Il cliente 93 si mette in coda per il tagliando
+Il cliente 92 si mette in coda per la Revisione
+Il cliente 91 si mette in coda per la Revisione
+Il cliente 90 si mette in coda per la Revisione
+Il cliente 89 si mette in coda per il tagliando
+Il cliente 88 si mette in coda per il tagliando
+Il cliente 87 si mette in coda per il tagliando
+Il cliente 86 si mette in coda per la Revisione
+Il cliente 85 si mette in coda per la Revisione
+Il cliente 84 si mette in coda per la Revisione
+Il cliente 83 si mette in coda per la Revisione
+Il cliente 82 si mette in coda per la Revisione
+Il cliente 81 si mette in coda per la Revisione
+Il cliente 80 si mette in coda per il tagliando
+Il cliente 79 si mette in coda per la Revisione
+Il cliente 78 si mette in coda per la Revisione
+Il cliente 77 si mette in coda per la Revisione
+Il cliente 76 si mette in coda per il tagliando
+Il cliente 75 si mette in coda per il tagliando
+Il cliente 74 si mette in coda per la Revisione
+Il cliente 73 si mette in coda per il tagliando
+Il cliente 72 si mette in coda per il tagliando
+Il cliente 71 si mette in coda per il tagliando
+Il cliente 70 si mette in coda per il tagliando
+Tagliando N2 libero
+Il cliente 93 esegue il tagliando
+Il cliente 93 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 89 esegue il tagliando
+Il cliente 89 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 88 esegue il tagliando
+Il cliente 88 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 87 esegue il tagliando
+Il cliente 87 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 80 esegue il tagliando
+Il cliente 80 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 76 esegue il tagliando
+Il cliente 76 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 75 esegue il tagliando
+Il cliente 75 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 73 esegue il tagliando
+Il cliente 73 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 72 esegue il tagliando
+Il cliente 72 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 71 esegue il tagliando
+Il cliente 71 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 70 esegue il tagliando
+Il cliente 70 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Il cliente 69 si mette in coda per il tagliando
+Il cliente 69 esegue il tagliando
+Il cliente 69 che ha eseguito il tagliando si mette in coda per uscire come ultimo
+Tagliando N2 libero
+Tagliando N3 libero
+Tagliando N0 libero
+Il cliente 99 abbandona l'officina
+Il cliente 28 abbandona l'officina
+Revisione libera
+Il cliente 31 abbandona l'officina
+Il cliente 38 abbandona l'officina
+Il cliente 40 abbandona l'officina
+Il cliente 42 abbandona l'officina
+Il cliente 43 abbandona l'officina
+Il cliente 44 abbandona l'officina
+Il cliente 45 abbandona l'officina
+Il cliente 46 abbandona l'officina
+Il cliente 48 abbandona l'officina
+Il cliente 50 abbandona l'officina
+Il cliente 52 abbandona l'officina
+Il cliente 53 abbandona l'officina
+Il cliente 54 abbandona l'officina
+Il cliente 55 abbandona l'officina
+Il cliente 57 abbandona l'officina
+Il cliente 58 abbandona l'officina
+Il cliente 59 abbandona l'officina
+Il cliente 61 abbandona l'officina
+Il cliente 62 abbandona l'officina
+Il cliente 64 abbandona l'officina
+Il cliente 67 abbandona l'officina
+Il cliente 18 abbandona l'officina
+Il cliente 19 abbandona l'officina
+Il cliente 21 abbandona l'officina
+Il cliente 22 abbandona l'officina
+Il cliente 49 abbandona l'officina
+Il cliente 47 abbandona l'officina
+Il cliente 41 abbandona l'officina
+Il cliente 39 abbandona l'officina
+Il cliente 37 abbandona l'officina
+Il cliente 36 abbandona l'officina
+Il cliente 35 abbandona l'officina
+Il cliente 34 abbandona l'officina
+Il cliente 33 abbandona l'officina
+Il cliente 32 abbandona l'officina
+Il cliente 30 abbandona l'officina
+Il cliente 29 abbandona l'officina
+Il cliente 95 abbandona l'officina
+Il cliente 93 abbandona l'officina
+Il cliente 89 abbandona l'officina
+Il cliente 88 abbandona l'officina
+Il cliente 87 abbandona l'officina
+Il cliente 80 abbandona l'officina
+Il cliente 76 abbandona l'officina
+Il cliente 75 abbandona l'officina
+Il cliente 73 abbandona l'officina
+Il cliente 72 abbandona l'officina
+Il cliente 71 abbandona l'officina
+Il cliente 70 abbandona l'officina
+Il cliente 69 abbandona l'officina
+Il cliente 98 esegue la revisione
+Il cliente 98 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 97 esegue la revisione
+Il cliente 97 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 96 esegue la revisione
+Il cliente 96 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 94 esegue la revisione
+Il cliente 94 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 92 esegue la revisione
+Il cliente 92 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 91 esegue la revisione
+Il cliente 91 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 90 esegue la revisione
+Il cliente 90 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 86 esegue la revisione
+Il cliente 86 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 85 esegue la revisione
+Il cliente 85 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 84 esegue la revisione
+Il cliente 84 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 83 esegue la revisione
+Il cliente 83 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 82 esegue la revisione
+Il cliente 82 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 81 esegue la revisione
+Il cliente 81 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 79 esegue la revisione
+Il cliente 79 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 78 esegue la revisione
+Il cliente 78 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 77 esegue la revisione
+Il cliente 77 che ha eseguito la revisione si mette in coda per uscire con priorità
+Il cliente 74 esegue la revisione
+Il cliente 74 che ha eseguito la revisione si mette in coda per uscire con priorità
