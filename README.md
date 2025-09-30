@@ -10,7 +10,7 @@ Console output inside the apps is currently **Italian**. Documentation is **Engl
 | Supermercato  | Stable | CLI app, Italian console |
 | Barbiere      | Stable | CLI app, Italian console |
 | Incrocio      | Stable | CLI app, Italian console |
-| Voli          | Stable | CLI app, Italian console |
+| Aereo         | Stable | CLI app, Italian console |
 | Officina      | Stable | CLI app, Italian console |
 
 ## How to browse
