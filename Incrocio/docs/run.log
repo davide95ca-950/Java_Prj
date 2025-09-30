@@ -1,0 +1,204 @@
+Il Binario è libero
+ Il treno 0 viene da SUD
+ Il treno 4 viene da NORD percorrendo il binario 1
+ Il treno 3 viene da SUD
+ Il treno 2 viene da SUD
+ Il treno 1 viene da NORD percorrendo il binario 2 ed è di categoria B
+ Il treno (della coda Provenienza) 0 sta transitando.
+ Il treno (della coda Provenienza) 3 sta transitando.
+ Il treno (della coda Provenienza) 2 sta transitando.
+ Il treno (della coda Binario) 4 sta transitando.
+ Il treno (della coda Categoria) 1 sta transitando.
+ Nessun treno in transito
+ Il treno 99 viene da SUD
+ Il treno 98 viene da SUD
+ Il treno 97 viene da NORD percorrendo il binario 2 ed è di categoria A
+ Il treno 96 viene da SUD
+ Il treno 95 viene da NORD percorrendo il binario 1
+ Il treno 94 viene da NORD percorrendo il binario 2 ed è di categoria A
+ Il treno 93 viene da NORD percorrendo il binario 1
+ Il treno 92 viene da SUD
+ Il treno 91 viene da NORD percorrendo il binario 1
+ Il treno 90 viene da SUD
+ Il treno 89 viene da NORD percorrendo il binario 2 ed è di categoria A
+ Il treno 88 viene da SUD
+ Il treno 87 viene da SUD
+ Il treno 86 viene da NORD percorrendo il binario 1
+ Il treno 85 viene da SUD
+ Il treno 84 viene da SUD
+ Il treno 83 viene da SUD
+ Il treno 82 viene da NORD percorrendo il binario 2 ed è di categoria A
+ Il treno 81 viene da NORD percorrendo il binario 2 ed è di categoria B
+ Il treno 80 viene da SUD
+ Il treno 79 viene da NORD percorrendo il binario 2 ed è di categoria B
+ Il treno 78 viene da NORD percorrendo il binario 2 ed è di categoria A
+ Il treno 77 viene da NORD percorrendo il binario 1
+ Il treno 76 viene da SUD
+ Il treno 75 viene da NORD percorrendo il binario 1
+ Il treno 74 viene da SUD
+ Il treno 73 viene da SUD
+ Il treno 72 viene da NORD percorrendo il binario 1
+ Il treno 71 viene da NORD percorrendo il binario 2 ed è di categoria B
+ Il treno 70 viene da NORD percorrendo il binario 1
+ Il treno 69 viene da NORD percorrendo il binario 2 ed è di categoria B
+ Il treno 68 viene da NORD percorrendo il binario 2 ed è di categoria B
+ Il treno 67 viene da NORD percorrendo il binario 1
+ Il treno 66 viene da SUD
+ Il treno 65 viene da SUD
+ Il treno 64 viene da SUD
+ Il treno 63 viene da NORD percorrendo il binario 1
+ Il treno 62 viene da SUD
+ Il treno 61 viene da SUD
+ Il treno 60 viene da NORD percorrendo il binario 1
+ Il treno 59 viene da SUD
+ Il treno 58 viene da SUD
+ Il treno 57 viene da NORD percorrendo il binario 2 ed è di categoria A
+ Il treno 56 viene da NORD percorrendo il binario 2 ed è di categoria B
+ Il treno 55 viene da SUD
+ Il treno 54 viene da NORD percorrendo il binario 2 ed è di categoria A
+ Il treno 53 viene da NORD percorrendo il binario 2 ed è di categoria B
+ Il treno 52 viene da NORD percorrendo il binario 2 ed è di categoria B
+ Il treno 51 viene da NORD percorrendo il binario 2 ed è di categoria A
+ Il treno 50 viene da SUD
+ Il treno 49 viene da SUD
+ Il treno 48 viene da SUD
+ Il treno 47 viene da NORD percorrendo il binario 1
+ Il treno 46 viene da SUD
+ Il treno 45 viene da SUD
+ Il treno 44 viene da NORD percorrendo il binario 2 ed è di categoria A
+ Il treno 43 viene da NORD percorrendo il binario 2 ed è di categoria A
+ Il treno 42 viene da NORD percorrendo il binario 1
+ Il treno 41 viene da NORD percorrendo il binario 1
+ Il treno 40 viene da SUD
+ Il treno 39 viene da NORD percorrendo il binario 2 ed è di categoria B
+ Il treno 38 viene da SUD
+ Il treno 37 viene da SUD
+ Il treno 36 viene da SUD
+ Il treno 35 viene da NORD percorrendo il binario 2 ed è di categoria B
+ Il treno 34 viene da NORD percorrendo il binario 1
+ Il treno 33 viene da SUD
+ Il treno 32 viene da SUD
+ Il treno 31 viene da SUD
+ Il treno 30 viene da SUD
+ Il treno 29 viene da NORD percorrendo il binario 1
+ Il treno 28 viene da SUD
+ Il treno 27 viene da SUD
+ Il treno 26 viene da NORD percorrendo il binario 1
+ Il treno 25 viene da SUD
+ Il treno 24 viene da NORD percorrendo il binario 2 ed è di categoria B
+ Il treno 23 viene da NORD percorrendo il binario 1
+ Il treno 22 viene da NORD percorrendo il binario 1
+ Il treno 21 viene da NORD percorrendo il binario 2 ed è di categoria A
+ Il treno 20 viene da NORD percorrendo il binario 1
+ Il treno 19 viene da SUD
+ Il treno 18 viene da SUD
+ Il treno 17 viene da NORD percorrendo il binario 2 ed è di categoria A
+ Il treno 16 viene da SUD
+ Il treno 15 viene da NORD percorrendo il binario 2 ed è di categoria B
+ Il treno 14 viene da NORD percorrendo il binario 1
+ Il treno 13 viene da NORD percorrendo il binario 1
+ Il treno 12 viene da SUD
+ Il treno 11 viene da NORD percorrendo il binario 1
+ Il treno 10 viene da SUD
+ Il treno 9 viene da SUD
+ Il treno 8 viene da NORD percorrendo il binario 2 ed è di categoria B
+ Il treno 7 viene da NORD percorrendo il binario 2 ed è di categoria B
+ Il treno 6 viene da SUD
+ Il treno 5 viene da NORD percorrendo il binario 2 ed è di categoria B
+Il Binario è libero
+ Il treno (della coda Provenienza) 99 sta transitando.
+ Il treno (della coda Provenienza) 98 sta transitando.
+ Il treno (della coda Provenienza) 96 sta transitando.
+ Il treno (della coda Binario) 95 sta transitando.
+ Il treno (della coda Provenienza) 92 sta transitando.
+ Il treno (della coda Provenienza) 90 sta transitando.
+ Il treno (della coda Provenienza) 88 sta transitando.
+ Il treno (della coda Binario) 93 sta transitando.
+ Il treno (della coda Provenienza) 87 sta transitando.
+ Il treno (della coda Provenienza) 85 sta transitando.
+ Il treno (della coda Provenienza) 84 sta transitando.
+ Il treno (della coda Binario) 91 sta transitando.
+ Il treno (della coda Provenienza) 83 sta transitando.
+ Il treno (della coda Provenienza) 80 sta transitando.
+ Il treno (della coda Provenienza) 76 sta transitando.
+ Il treno (della coda Categoria) 97 sta transitando.
+ Il treno (della coda Provenienza) 74 sta transitando.
+ Il treno (della coda Provenienza) 73 sta transitando.
+ Il treno (della coda Provenienza) 66 sta transitando.
+ Il treno (della coda Binario) 86 sta transitando.
+ Il treno (della coda Provenienza) 65 sta transitando.
+ Il treno (della coda Provenienza) 64 sta transitando.
+ Il treno (della coda Provenienza) 62 sta transitando.
+ Il treno (della coda Binario) 77 sta transitando.
+ Il treno (della coda Provenienza) 61 sta transitando.
+ Il treno (della coda Provenienza) 59 sta transitando.
+ Il treno (della coda Provenienza) 58 sta transitando.
+ Il treno (della coda Binario) 75 sta transitando.
+ Il treno (della coda Provenienza) 55 sta transitando.
+ Il treno (della coda Provenienza) 50 sta transitando.
+ Il treno (della coda Provenienza) 49 sta transitando.
+ Il treno (della coda Categoria) 94 sta transitando.
+ Il treno (della coda Provenienza) 48 sta transitando.
+ Il treno (della coda Provenienza) 46 sta transitando.
+ Il treno (della coda Provenienza) 45 sta transitando.
+ Il treno (della coda Binario) 72 sta transitando.
+ Il treno (della coda Provenienza) 40 sta transitando.
+ Il treno (della coda Provenienza) 38 sta transitando.
+ Il treno (della coda Provenienza) 37 sta transitando.
+ Il treno (della coda Binario) 70 sta transitando.
+ Il treno (della coda Provenienza) 36 sta transitando.
+ Il treno (della coda Provenienza) 33 sta transitando.
+ Il treno (della coda Provenienza) 32 sta transitando.
+ Il treno (della coda Binario) 67 sta transitando.
+ Il treno (della coda Provenienza) 31 sta transitando.
+ Il treno (della coda Provenienza) 30 sta transitando.
+ Il treno (della coda Provenienza) 28 sta transitando.
+ Il treno (della coda Categoria) 89 sta transitando.
+ Il treno (della coda Provenienza) 27 sta transitando.
+ Il treno (della coda Provenienza) 25 sta transitando.
+ Il treno (della coda Provenienza) 19 sta transitando.
+ Il treno (della coda Binario) 63 sta transitando.
+ Il treno (della coda Provenienza) 18 sta transitando.
+ Il treno (della coda Provenienza) 16 sta transitando.
+ Il treno (della coda Provenienza) 12 sta transitando.
+ Il treno (della coda Binario) 60 sta transitando.
+ Il treno (della coda Provenienza) 10 sta transitando.
+ Il treno (della coda Provenienza) 9 sta transitando.
+ Il treno (della coda Provenienza) 6 sta transitando.
+ Il treno (della coda Binario) 47 sta transitando.
+ Il treno (della coda Categoria) 82 sta transitando.
+ Il treno (della coda Binario) 42 sta transitando.
+ Il treno (della coda Binario) 41 sta transitando.
+ Il treno (della coda Binario) 34 sta transitando.
+ Il treno (della coda Categoria) 81 sta transitando.
+ Il treno (della coda Binario) 29 sta transitando.
+ Il treno (della coda Binario) 26 sta transitando.
+ Il treno (della coda Binario) 23 sta transitando.
+ Il treno (della coda Categoria) 79 sta transitando.
+ Il treno (della coda Binario) 22 sta transitando.
+ Il treno (della coda Binario) 20 sta transitando.
+ Il treno (della coda Binario) 14 sta transitando.
+ Il treno (della coda Categoria) 78 sta transitando.
+ Il treno (della coda Binario) 13 sta transitando.
+ Il treno (della coda Binario) 11 sta transitando.
+ Il treno (della coda Categoria) 71 sta transitando.
+ Il treno (della coda Categoria) 69 sta transitando.
+ Il treno (della coda Categoria) 68 sta transitando.
+ Il treno (della coda Categoria) 57 sta transitando.
+ Il treno (della coda Categoria) 56 sta transitando.
+ Il treno (della coda Categoria) 54 sta transitando.
+ Il treno (della coda Categoria) 53 sta transitando.
+ Il treno (della coda Categoria) 52 sta transitando.
+ Il treno (della coda Categoria) 51 sta transitando.
+ Il treno (della coda Categoria) 44 sta transitando.
+ Il treno (della coda Categoria) 43 sta transitando.
+ Il treno (della coda Categoria) 39 sta transitando.
+ Il treno (della coda Categoria) 35 sta transitando.
+ Il treno (della coda Categoria) 24 sta transitando.
+ Il treno (della coda Categoria) 21 sta transitando.
+ Il treno (della coda Categoria) 17 sta transitando.
+ Il treno (della coda Categoria) 15 sta transitando.
+ Il treno (della coda Categoria) 8 sta transitando.
+ Il treno (della coda Categoria) 7 sta transitando.
+ Il treno (della coda Categoria) 5 sta transitando.
+ Nessun treno in transito
