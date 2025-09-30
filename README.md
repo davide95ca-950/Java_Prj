@@ -1,3 +1,4 @@
+![build](https://github.com/davide95ca-950/Java_Prj/actions/workflows/ci.yml/badge.svg)
 # Java_Prj
 
 Source-only repository. Binaries and IDE files are not tracked.
