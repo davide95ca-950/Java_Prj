@@ -1,0 +1,16 @@
+# Java artifacts
+*.class
+out/
+target/
+build/
+
+# IDE
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# OS junk
+.DS_Store
+Thumbs.db
