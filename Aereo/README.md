@@ -25,18 +25,6 @@ oli
 **Stack:** Java (console)  
 **Type:** Educational/demo
 
-## Overview
-Airport ground operations skeleton: boarding, taxi, runway occupancy, takeoff/landing states. Console messages are in **Italian**; documentation is in **English**.
-
-## How to run
-Run the `Main` class. Sample output: `docs/run.log`.
-
-## What to look at
-- Discrete state changes (e.g., WAIT FOR TAKEOFF)
-- Simple sequencing and guards
-
-## Example output
-See `docs/run.log`.
 
 ## License
 MIT
